@@ -24,9 +24,9 @@ setup(name='lipnet',
         'sk-video==1.1.10',
         'dlib==19.21.1',
         'opencv-python',
-        'keras==2.0.2',
-        'tensorflow==1.15.0',
-        'numpy==1.19.0'
+        'keras==2.4',
+        'tensorflow==2.4.0',
+        #'numpy==1.19.0'
         # 'Keras',
         # 'editdistance',
 		# 'h5py',
